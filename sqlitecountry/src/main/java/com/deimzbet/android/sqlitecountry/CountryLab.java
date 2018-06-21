@@ -30,7 +30,7 @@ public class CountryLab {
         return getAll(null);
     }
 
-    public String getAll(@Nullable String... values) {
+    private String getAll(@Nullable String... values) {
         StringBuilder builder = new StringBuilder();
         try (Cursor cursor = database.query(
                 CountryTable.NAME, values, null, null, null, null,
