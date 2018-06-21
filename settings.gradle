@@ -1,0 +1,1 @@
+include ':app', ':preferences', ':sqlite', ':sqlitecountry'

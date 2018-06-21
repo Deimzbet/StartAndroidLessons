@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="name_hint">Enter your name</string>
+    <string name="email_hint">Enter your email</string>
+    <string name="add">Add</string>
+    <string name="read">read</string>
+    <string name="clear">clear</string>
+    <string name="read_one">read one</string>
+    <string name="name_search">Name</string>
+    <string name="delete">delete</string>
+</resources>

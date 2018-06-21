@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Preferences</string>
+    <string name="value_field">Enter value</string>
+    <string name="save">save</string>
+    <string name="load">load</string>
+    <string name="save_message">Preference saved</string>
+    <string name="default_pref">No saved text :(</string>
+    <string name="load_message">Pref text loaded</string>
+</resources>
